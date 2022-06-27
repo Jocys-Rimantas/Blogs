@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Recepto pavadinimas",
+      "clases": "Mesos patiekalai",
+      "body": "Kiaulienos mentę ištriname prieskoniais ir paliekame marinuotis šaltai per naktį ar net parą. Nieko nenutiks jei dėsite kepti ir iškart, bet pasimarinavusi mėsas bus dar išraiškingesnio skonio.",
+      "id": 1
+    },
+    {
+      "title": "Recepto pavadinimas",
+      "clases": "Salotos",
+      "body": "4 kietai virtus kiaušinius smulkiai sukapojame peiliu arba sutarkuojame smulkia burokine tarka. Į tarkuotus kiaušinius beriame sūrį ir smulkiai supjaustytus šviežius smidrus. Įdedame daigų ir išmaišome.",
+      "id": 2
+    },
+    {
+      "title": "Šokoladinis tortas",
+      "clases": "Desertas",
+      "body": "Torto receptas",
+      "id": 3
+    }
+  ]
+}
