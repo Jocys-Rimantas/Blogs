@@ -1,0 +1,33 @@
+1. pwd
+2.ls
+3.cd >> to folder
+4. git init
+5. git add .
+6. git status
+7. git commit -m "First comit"
+8. git remote add origin https://github.com/Jocys-Rimantas/Frontas.git
+9. git push -u originas master
+
+1.mkdir >> repository name
+2.cd >> go to repo
+3.git clone https://github.com/Jocys-Rimantas/Frontas.git
+
+
+Spring: 
+
+Spring data jpa
+spring web
+Spring boot dev tools
+h2
+
+React
+
+npx create-react-app (name of the app)
+cd name of the app 
+code .
+npm run start
+npm instal
+npm install axios
+npx json-server --watch data/db.json --port 8000
+npm instal react-router-dom@5
+
